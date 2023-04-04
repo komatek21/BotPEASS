@@ -1,7 +1,11 @@
 ALL_VALID: no
 
 DESCRIPTION_KEYWORDS_I:
-- 
+- remote
+- allow
+- attackers
+- arbitrary
+- via
 
 DESCRIPTION_KEYWORDS:
 - 
