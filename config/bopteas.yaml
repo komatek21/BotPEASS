@@ -3,6 +3,7 @@ ALL_VALID: no
 DESCRIPTION_KEYWORDS_I:
 - privilege escalation
 - escalation
+- vulnerability
 - privesc
 - high integrity
 - elevated privilege
